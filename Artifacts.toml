@@ -1,0 +1,9 @@
+[[CGNS]]
+arch = "x86_64"
+git-tree-sha1 = "ca40a664b94072e9326dffe25a0a6237c4b4563d"
+libc = "glibc"
+os = "linux"
+
+    [[CGNS.download]]
+    sha256 = "edb237b0d5d5ebd542c96d4ad805f742e986c447ef50ceb996b64ad6d7444781"
+    url = "https://github.com/dingraha/CGNS_jll.jl/releases/download/CGNS-v3.4.0+0/CGNS.v3.4.0.x86_64-linux-gnu.tar.gz"
